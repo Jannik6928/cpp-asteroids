@@ -4,5 +4,5 @@ I coded this in freshman year, it was my second ever project (outside of the sma
 
 ## Screenshots
 
-![Alt text](screenshots/game_over.png?raw=true "Gameplay")
+![Alt text](screenshots/gameplay.png?raw=true "Gameplay")
 ![Alt text](screenshots/game_over.png?raw=true "Game Over")
